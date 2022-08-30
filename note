@@ -1,0 +1,11 @@
+<div class="box">
+          <div class="note-icons">
+            <i class="fa-solid fa-pen-to-square icon"></i>
+            <i class="fa-solid fa-trash icon"></i>
+          </div>
+          <textarea
+            type=""
+            class="note"
+            placeholder="Enter your note......"
+          ></textarea>
+</div>
